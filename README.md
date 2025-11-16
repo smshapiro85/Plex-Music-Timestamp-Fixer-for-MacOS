@@ -1,4 +1,4 @@
-# Plex Music Timestamp Fixer for MaqcOS
+# Plex Music Timestamp Fixer for MacOS
 
 A Python utility for repairing incorrect **Date Added** metadata in Plex music libraries. Plex occasionally applies future timestamps to tracks or their parent albums, which causes them to appear incorrectly in the **Recently Added** carousel even when they were added months or years earlier.
 
